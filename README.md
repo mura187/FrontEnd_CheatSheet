@@ -1,6 +1,7 @@
 # Front-End Features from Murat
 
 Here I will periodically post different features and lifehacks for development, front-end interfaces, etc.
+Please, give me a star to support the repo
 
 # Text-File Editors
 
