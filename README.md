@@ -60,3 +60,6 @@ https://websitesetup.org/javascript-cheat-sheet/) <br>
 [**Creative Tim**](https://www.creative-tim.com/)<br>
 [**Block for Bootstrap**](https://github.com/froala/design-blocks)
 
+# Performance of web app
+
+>[**TinyJpg**](https://tinyjpg.com/)
